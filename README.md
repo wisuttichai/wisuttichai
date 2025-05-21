@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Wisuttichai
 
-<!--
-**wisuttichai/wisuttichai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring frontend developer from Thailand, currently learning web development through freeCodeCamp and personal projects.
 
-Here are some ideas to get you started:
+## 🛠️ Skills I'm Learning
+- HTML / CSS / Responsive Design
+- JavaScript (Vanilla JS)
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Goals
+- Build real-world projects
+- Learn React
+- Find freelance or remote internship opportunities
+
+## 📫 Connect With Me
+- 🌐 [LinkedIn](https://www.linkedin.com/in/wisuttichai)
+- 💻 [GitHub](https://github.com/wisuttichai)
