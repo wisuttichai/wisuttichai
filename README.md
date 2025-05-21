@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Wisuttichai
 
-I'm an aspiring frontend developer from Thailand, currently learning web development through freeCodeCamp and personal projects.
+I'm an aspiring frontend developer, currently learning web development through freeCodeCamp and personal projects.
 
 ## 🛠️ Skills I'm Learning
 - HTML / CSS / Responsive Design
